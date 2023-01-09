@@ -1,0 +1,10 @@
+REQUIREMENTS
+
+1) Write a program that says hello to the world.
+2) We want to be able to specify who we say hello to.
+    - If no one is specified, we should say hello to the world.
+3) We want to be able to specify which language we say hello to. 
+    - The languages available are: English, Portugese and Spanish. 
+    - If a language is passed in that we do not recognise, just default 
+      to English.
+
